@@ -1,9 +1,9 @@
 # SentimentalAnalysis
 ### Dataset:
 
-•         Multiclass: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+- Multiclass: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 
-•         Binary class: http://deeplearning.net/tutorial/lstm.html
+- Binary class: http://deeplearning.net/tutorial/lstm.html
  
  
 ### Demo scripts:
@@ -20,7 +20,7 @@
 •         Benchmark of different solutions (ML Vs. DL)
 
  
-###Next actions:
+### Next actions:
 
   To create a git repository (SentimentAnalysis) (Konstantin)
   
