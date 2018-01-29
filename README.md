@@ -1,18 +1,18 @@
 # SentimentalAnalysis
-###Dataset:
+### Dataset:
 
 •         Multiclass: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 
 •         Binary class: http://deeplearning.net/tutorial/lstm.html
  
  
-###Demo scripts:
+### Demo scripts:
 •         Udemy scripts
 
 •         Demo scripts on github
 
  
-###Objectives: 
+### Objectives: 
 •         To use Keras/Tensorflow/Python
 
 •         Script only
@@ -31,7 +31,7 @@
   To start data preparation (Konstantin, Denis)
   
  
-###0 Data preparation phase:
+### 0 Data preparation phase:
 
 •         Bag of words (1-gram, 2-gram, …) (Denis)
 
@@ -40,7 +40,7 @@
 •         Others? To search on google
 
  
-###1 binary task
+### 1 binary task
 
 •         Machine Learning Methods:
 
@@ -63,7 +63,7 @@ o    RNN
 o    LSTM
 
  
-###2 multiclass
+### 2 multiclass
 
 •         The same methods
 
