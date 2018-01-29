@@ -7,64 +7,64 @@
  
  
 ### Demo scripts:
-•         Udemy scripts
+- Udemy scripts
 
-•         Demo scripts on github
+- Demo scripts on github
 
  
 ### Objectives: 
-•         To use Keras/Tensorflow/Python
+- To use Keras/Tensorflow/Python
 
-•         Script only
+- Script only
 
-•         Benchmark of different solutions (ML Vs. DL)
+- Benchmark of different solutions (ML Vs. DL)
 
  
 ### Next actions:
 
-  To create a git repository (SentimentAnalysis) (Konstantin)
+ 1. To create a git repository (SentimentAnalysis) (Konstantin)
   
-  To put the plan on the repository
+ 2. To put the plan on the repository
   
-  A brief description of the datasets (exploratory analysis)
+ 3. A brief description of the datasets (exploratory analysis)
   
-  To start data preparation (Konstantin, Denis)
+ 4. To start data preparation (Konstantin, Denis)
   
  
 ### 0 Data preparation phase:
 
-•         Bag of words (1-gram, 2-gram, …) (Denis)
+-  Bag of words (1-gram, 2-gram, …) (Denis)
 
-•         Word 2 vec (Konstantin)
+- Word 2 vec (Konstantin)
 
-•         Others? To search on google
+- Others? To search on google
 
  
 ### 1 binary task
 
-•         Machine Learning Methods:
+1. Machine Learning Methods:
 
-o    Naive base
+- Naive base
 
-o    SVM
+- SVM
 
-o    Random Forest
+- Random Forest
 
-o    Linear method penalized
+- Linear method penalized
 
-•         Deep Learning Methods:
+2. Deep Learning Methods:
 
-o    ANN
+- ANN
 
-o    CNN
+- CNN
 
-o    RNN
+- RNN
 
-o    LSTM
+-LSTM
 
  
 ### 2 multiclass
 
-•         The same methods
+- The same methods
 
  
