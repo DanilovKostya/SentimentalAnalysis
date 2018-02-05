@@ -3,7 +3,7 @@
 
 - Multiclass: https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 
-- Binary class: http://deeplearning.net/tutorial/lstm.html
+- Binary class: http://ai.stanford.edu/~amaas/data/sentiment/
  
  
 ### Demo scripts:
